@@ -19,7 +19,7 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'SaMeer-MD';
+global.botname = process.env.BOTNAME || 'ULTRA-MD';
 global.botNumber = '923191028481' //replace your bot number here
 
 global.mods = []
@@ -72,10 +72,10 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'DEVIL-MD'
-global.author = 'SameerTechinfo'
+global.packname = 'ULTRA-MD'
+global.author = 'globaltechinfo'
 global.menuvid = 'https://i.imgur.com/2RXVQT3.jpeg'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/bloody_uchiha_itachi'
+global.igfg = ' Follow on Instagram\https://www.instagram.com/global,tech'
 global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 global.fgsc = 'https://github.com/GlobalTechInfo/ULTRA-MD'
 global.fgyt = 'https://youtube.com/@GlobalTechInfo'
